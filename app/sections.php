@@ -8,7 +8,7 @@
 </ul>
 <!-- Opciones Admin-Finanzas -->
 <ul id="adm-fin" class="dropdown-content">
-  <li><a href="#">Ingresos</a></li>
+  <li><a href="../Adm-Fin/ingresos.php" target="_blank">Ingresos</a></li>
   <li><a href="#!">Cartera Vencida</a></li>
   <li><a href="#!">Becas Convenios</a></li>
   <li class="divider"></li>
@@ -22,9 +22,9 @@
   <li><a href="#!">Titulación Electrónica</a></li>
 </ul>
   <nav>
-    <div class="container">
+    
       <div class="nav-wrapper">
-        <a href="#" class="brand-logo"><img class="responsive-img" src="../img/logo_SIREP.png" style="max-width: 180px;"></a>
+        <a href="#" class="brand-logo"><img class="responsive-img" src="../img/logo_SIREP.png" style="max-width: 180px; margin-left: 10%;"></a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a class="dropdown-trigger" href="#!" data-target="mercadotecnia">Mercadotecnia<i class="material-icons right">arrow_drop_down</i></a></li>
         <li><a class="dropdown-trigger" href="#!" data-target="adm-fin">Administración/Finanzas<i class="material-icons right">arrow_drop_down</i></a></li>
@@ -36,7 +36,7 @@
         </ul>
         <a class="sidenav-trigger" href="#" data-target="nav-mobile"><i class="material-icons">menu</i></a>
       </div>
-    </div>
+    
   </nav>
 </div>
 </header>
@@ -52,7 +52,7 @@
  </ul>
  <!-- Opciones Admin-Finanzas -->
  <ul id="adm-fin" class="dropdown-content">
-   <li><a href="#">Ingresos</a></li>
+   <li><a href="../Adm-Fin/ingresos.php" target="_blank">Ingresos</a></li>
    <li><a href="#!">Cartera Vencida</a></li>
    <li><a href="#!">Becas Convenios</a></li>
    <li class="divider"></li>
@@ -66,9 +66,9 @@
    <li><a href="#!">Titulación Electrónica</a></li>
  </ul>
    <nav>
-     <div class="container">
+   
        <div class="nav-wrapper">
-         <a href="../app/" class="brand-logo"><img class="responsive-img" src="../img/logo_SIREP.png" style="max-width: 180px;"></a>
+         <a href="../app/" class="brand-logo"><img class="responsive-img" src="../img/logo_SIREP.png" style="max-width: 180px; margin-left: 10%;"></a>
          <ul id="nav-mobile" class="right hide-on-med-and-down">
          <li><a href="../app/">Inicio</a></li>
          <li><a class="dropdown-trigger" href="#!" data-target="mercadotecnia">Mercadotecnia<i class="material-icons right">arrow_drop_down</i></a></li>
@@ -83,7 +83,7 @@
        </div>
      </div>
    </nav>
- </div>
+
  </header>
   ';
 
@@ -111,6 +111,16 @@ $footer = '
               </div>
             </div>
           </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2020 Universidad ICEL
+            </div>
+          </div>
+        </footer>
+';
+
+$footer_reports = '
+<footer class="page-footer">
           <div class="footer-copyright">
             <div class="container">
             © 2020 Universidad ICEL

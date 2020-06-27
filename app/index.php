@@ -72,7 +72,7 @@ include_once 'sections.php';
 
     <div class="parallax-container center-align">
     <div class="col s12"><h1 style="color: #0c243c;" class="center-align"><b>Control de Vehículo Utilitario</b></h1></div>
-        <a class="waves-effect waves-light btn-large"><h5><i class="material-icons right">open_in_new</i>Acceder</h5></a>
+        <a class="waves-effect waves-light btn"><h6><i class="material-icons right">open_in_new</i>Acceder</h6></a>
       <div class="parallax"><img src="../img/gvutil_banner.jpg"></div>
     </div>
 

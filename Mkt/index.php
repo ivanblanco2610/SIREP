@@ -173,7 +173,7 @@ include_once '../app/sections.php';
         <div class="row center-align">
             <div class="col s12">
                 <div class="divider"></div>
-                <p style="color: #9e9e9e">En caso de requrir un reporte anterior por favor solicitarlo a la Coordinación de Centros de Cómputo</p>
+                <p style="color: #9e9e9e">En caso de requrir un reporte anterior a 2017 por favor solicitarlo a la Coordinación de Centros de Cómputo</p>
             </div>
         </div>
     </div> <!-- CIERRA CONTAINER-->
