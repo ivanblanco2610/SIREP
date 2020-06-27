@@ -1,0 +1,11 @@
+
+html{
+    /* la imagen a ser mostrada a pantalla completa */
+    background:url('img\zona.png') no-repeat center center;
+ 
+    /* nos aseguramos que el elemento ocupe toda la ventana del navegador */
+    min-height:90%;
+ 
+    /* Propiedad a utilizar para la imagen */
+    background-size:cover;
+}

@@ -1,0 +1,14 @@
+AZUL PRINCIPAL
+#0c243c
+VERDE
+#8cc43c
+AZUL CLARO
+#0473cb
+NARANJA
+#f7832b
+
+
+Azul obscuro Old
+#1a237e
+
+
