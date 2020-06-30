@@ -9,7 +9,7 @@
 <!-- Opciones Admin-Finanzas -->
 <ul id="adm-fin" class="dropdown-content">
   <li><a href="../Adm-Fin/ingresos.php" target="_blank">Ingresos</a></li>
-  <li><a href="#!">Cartera Vencida</a></li>
+  <li><a href="../Adm-Fin/carven.php">Cartera Vencida</a></li>
   <li><a href="#!">Becas Convenios</a></li>
   <li class="divider"></li>
   <li><a href="#!">Descarga Pagos</a></li>
@@ -53,7 +53,7 @@
  <!-- Opciones Admin-Finanzas -->
  <ul id="adm-fin" class="dropdown-content">
    <li><a href="../Adm-Fin/ingresos.php" target="_blank">Ingresos</a></li>
-   <li><a href="#!">Cartera Vencida</a></li>
+   <li><a href="../Adm-Fin/carven.php">Cartera Vencida</a></li>
    <li><a href="#!">Becas Convenios</a></li>
    <li class="divider"></li>
    <li><a href="#!">Descarga Pagos</a></li>

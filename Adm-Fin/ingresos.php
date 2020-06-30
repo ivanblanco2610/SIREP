@@ -34,7 +34,6 @@ if (!isset($_SESSION['usuario'])) {
     <i class="material-icons">close</i></a>
 </div>
 </div>
-
 <div class="row center-align">
     <div class="col s12">
     <iframe style="width: 100%; height: 550px;" src="https://app.powerbi.com/view?r=eyJrIjoiY2MzZjRkNDYtODlhMS00MTQzLWI4ZTYtZTkzOGQ4OWY1Y2E5IiwidCI6ImVkNDVjNjFlLWUyNzUtNGYxYS1iN2Q4LTEwYWIzNTg4YTJiOCJ9" scrolling="no"></iframe> 

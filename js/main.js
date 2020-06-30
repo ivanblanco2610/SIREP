@@ -30,3 +30,24 @@ function Saltar() {
   }
 
 }
+
+// Descargar reportes de cartera mensual históricos
+
+function Saltar_carven() {
+
+  var year = document.carven.year.value;
+  var mes = document.carven.mes.value;
+
+  if (year == "") {
+    alert("Selecciona el año");
+        return false;
+  }
+
+  if (mes == "") {
+    alert("Selecciona el mes");
+        return false;
+  }
+ 
+     var reporte = "https://soporte.icel.edu.mx/icel/icel/carven/Cartera Vencida "+mes+" "+year+".xlsx";
+     open(reporte);  
+  }
