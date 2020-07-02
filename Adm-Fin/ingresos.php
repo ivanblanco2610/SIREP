@@ -7,6 +7,7 @@ if (!isset($_SESSION['usuario'])) {
     $user_active = $_SESSION['usuario'];
     $nivel_acceso = $_SESSION['nivel'];
 }
+include_once '../app/sections.php';
 ?>
 <!DOCTYPE html>
 <html lang="es">

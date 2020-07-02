@@ -42,12 +42,13 @@ include_once 'sections.php';
 
 <!-- INICIA CONTENIDO PERSONALIZADO  POR NIVEL -->
 <?php 
-if($nivel_acceso == 1){
+/*if($nivel_acceso == 1){
     echo $content_ini_niv_1;
-}
+}*/
+echo $content_ini_niv_1;
 ?>
 
-<div class="container">
+<!--div class="container">
     <div class="row">
         <div class="col s4 offset-s2">
             <h3>
@@ -65,7 +66,7 @@ if($nivel_acceso == 1){
       </div>
         </div>
     </div>
-</div>
+</div-->
 
 
 <!-- TERMINA CONTENIDO PERSONALIZADO  POR NIVEL -->
