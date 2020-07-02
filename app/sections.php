@@ -129,4 +129,37 @@ $footer_reports = '
         </footer>
 ';
 
+// ****************************** SECCION DE INICIO PARA USUARIOS DE NIVEL 1 ************************
+
+$content_ini_niv_1 = '
+<div class="row center-align" style="background-color: #e0e0e0">
+<div class="col s12 m6">
+    <h3 style="color: #424242"><b>Campus CDMX</b></h3>
+</div>
+<div class="col s12 m6">
+    <h3 style="color: #424242"><b>Campus Foráneos</b></h3>
+</div>
+</div>
+<div class="row" style="margin-top: -100px;">
+<div class="col s12 m6">
+<div class="carousel">
+    <a class="carousel-item" href="#one!"><img src="../img/campi/zonarosa.png"><h5 class="center-align">Zona Rosa</h5></a>
+    <a class="carousel-item" href="#two!"><img src="../img/campi/berlin.png"><h5 class="center-align">Berlín</h5></a>
+    <a class="carousel-item" href="#three!"><img src="../img/campi/ermita.png"><h5 class="center-align">Ermita</h5></a>
+    <a class="carousel-item" href="#four!"><img src="../img/campi/zaragoza.png"><h5 class="center-align">Zaragoza</h5></a>
+    <a class="carousel-item" href="#five!"><img src="../img/campi/villa.png"><h5 class="center-align">La Villa</h5></a>
+    <a class="carousel-item" href="#six!"><img src="../img/campi/tlalpan.png"><h5 class="center-align">Tlalpan</h5></a>
+  </div>
+</div>
+<div class="col s12 m6">
+<div class="carousel">
+    <a class="carousel-item" href="#"><img src="../img/campi/cuautitlan.png"><h5 class="center-align">Cuautitlán</h5></a>
+    <a class="carousel-item" href="#"><img src="../img/campi/lverdes.png"><h5 class="center-align">Lomas Verdes</h5></a>
+    <a class="carousel-item" href="#"><img src="../img/campi/coacalco.png"><h5 class="center-align">Coacalco</h5></a>
+    <a class="carousel-item" href="#"><img src="../img/campi/cuernavaca.png"><h5 class="center-align">Cuernavaca</h5></a>
+    <a class="carousel-item" href="#"><img src="../img/campi/ecatepec.jpg"><h5 class="center-align">Ecatepec</h5></a>
+  </div>
+</div>
+</div>
+';
 ?>
